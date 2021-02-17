@@ -5,9 +5,7 @@ import LandingPage from 'pages/LandingPage';
 function App() {
   return (
     <div className="App">
-      <BrowserRouter>
-        <Route path="/" component={LandingPage} exact>Home</Route>
-      </BrowserRouter>
+      Halo
     </div>
   );
 }
